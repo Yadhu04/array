@@ -38,7 +38,7 @@ void main() {
     sum.add(rowSum);
   }
 
-  print('\nThe sum of two Arry is : \n');
+  print('\nThe sum of two Arry is : ');
   // print sum
   for (var i = 0; i < row; i++) {
     print(sum[i]);
